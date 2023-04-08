@@ -1,0 +1,7 @@
+data.zip -> datasets used for the analysis and development of regression models
+
+Financial Planner.zip -> source code for application with dependencies 
+
+regression.zip -> regression analysis and development of regression models
+
+*files in data.zip are dependencies to run code in regression.zip
